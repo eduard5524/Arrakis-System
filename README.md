@@ -1,7 +1,6 @@
 # Arrakis-System
 
-In this Operating Systems practice, you are asked to implement the Arrakis System, a system that tries
-restore minimal connectivity to the planet in a post-pandemic, post-apocalyptic and dystopia situation.
+Arrakis System, a system that tries restore minimal connectivity to the planet in a post-pandemic, post-apocalyptic and dystopia situation.
 Mainly, the system will have three programs, the Atreides server, the Fremen terminals and the
 Harkonen attacking programs. Below, you can see the functional diagram of the system.</br></br>
 
